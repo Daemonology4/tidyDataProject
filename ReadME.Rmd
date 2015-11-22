@@ -1,0 +1,8 @@
+---
+title: "readme"
+author: "Zachary Fietsch"
+date: "November 22, 2015"
+output: html_document
+---
+
+This repository contains "UCI HAR Dataset-2" which you must move to your working directory for the code contained in "run_analysis.R" to generate the output of "tidyData.txt".
